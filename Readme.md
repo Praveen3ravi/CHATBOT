@@ -19,8 +19,8 @@ RUN:  "uvicorn main:app --reload --host 0.0.0.0 --port 8000"
 
 **STEP 3:**
 Open any browser and URL = "http://127.0.0.1:8000/docs#/default/CREATE_Bot_api_v1_property_loop_bot_post"
-API params: 
-{
+
+API params: {
   "ChatGPT_key": "", #provide the key here
   "query": ["What is the SecurityTypeName for the SecName 'EJ0445951'?", 
              "What is the StartFXRate on OpenDate 04-03-2020?",
