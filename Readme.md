@@ -16,8 +16,8 @@ RUN: "pip install -r requirements.txt" to download all libraries from requiremen
 **STEP 2:**
 RUN:  "uvicorn main:app --reload --host 0.0.0.0 --port 8000"
 
-**STEP 3:**
-API params : {
+*STEP 3:*
+API params: {
   "ChatGPT_key": "", #provide the key here
   "query": ["What is the SecurityTypeName for the SecName 'EJ0445951'?", 
              "What is the StartFXRate on OpenDate 04-03-2020?",
