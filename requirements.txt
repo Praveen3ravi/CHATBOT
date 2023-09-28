@@ -1,0 +1,6 @@
+fastapi
+pydantic
+starlette
+llama_index
+openai
+pandas
