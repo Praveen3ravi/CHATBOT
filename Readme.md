@@ -7,7 +7,7 @@ Feel free to use any LLM. Share your notebook within 3 days.
 
 If you have any doubts then feel free to ask them over email.
 
-======================================================================
+=========================================================================
 **STEP 1:**
 Download python. 
 RUN: ".\venv\Scripts\Activate.ps1" to activate the virtual environment.
